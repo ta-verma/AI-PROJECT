@@ -50,7 +50,7 @@ In this notebook, we'll build models to for classification of fake news dataset 
 
 
 
-#### Our accuracies for the models are as follows.
+## Our accuracies for the models are as follows.
 
 - MultinomialNB - 89.33%
 - Linear Model - 93.63%
